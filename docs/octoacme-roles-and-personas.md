@@ -75,7 +75,77 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA / Testing
+
+### Role Summary
+QA and Testing partners validate that planned work meets acceptance criteria, quality expectations, and release readiness standards. They help teams reduce delivery risk by finding issues early and confirming critical workflows behave as expected.
+
+### Responsibilities
+- Review acceptance criteria and identify test scenarios
+- Execute manual or automated validation for planned changes
+- Report defects clearly and help verify fixes
+- Confirm release readiness for critical workflows and regressions
+- Partner with developers and PMs on test planning and quality risks
+
+### Goals
+- Catch defects before release
+- Improve confidence in feature quality and stability
+- Ensure acceptance criteria are verified consistently
+
+### Typical Communication
+- Test plans and validation notes for stories and releases
+- Defect reports with reproduction steps and severity
+- Go/no-go input during release readiness checks
+
+---
+
+## Stakeholders
+
+### Role Summary
+Stakeholders represent the business, customer, and operational groups affected by project outcomes. They provide input, feedback, and approvals to keep the work aligned with broader organizational needs.
+
+### Responsibilities
+- Share business context, constraints, and dependencies
+- Review plans, milestones, and proposed trade-offs
+- Provide timely feedback on progress, demos, and deliverables
+- Approve key decisions when their teams are impacted
+- Help communicate changes to affected teams such as support, sales, or operations
+
+### Goals
+- Ensure delivered work supports business priorities
+- Reduce surprises for downstream teams
+- Keep cross-functional decisions aligned and timely
+
+### Typical Communication
+- Kickoff meetings and milestone reviews
+- Weekly or milestone-based status updates
+- Feedback during demos, launch planning, and retrospectives
+
+---
+
+## Sponsors
+
+### Role Summary
+Sponsors are senior decision-makers who authorize investment, remove escalated blockers, and help maintain alignment with strategic outcomes. They are engaged at major decision points and when business-impacting risks require escalation.
+
+### Responsibilities
+- Approve project direction, funding, or scope changes as needed
+- Resolve escalated risks, dependencies, or organizational blockers
+- Reinforce project priorities with leadership and partner teams
+- Review major milestones, outcomes, and business impact
+
+### Goals
+- Maximize strategic value from project investments
+- Keep critical initiatives moving through organizational constraints
+- Support timely decisions on scope, risk, and priority
+
+### Typical Communication
+- Executive summaries and milestone checkpoints
+- Escalation reviews for major risks or blockers
+- Approval discussions for major scope, timeline, or launch decisions
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
